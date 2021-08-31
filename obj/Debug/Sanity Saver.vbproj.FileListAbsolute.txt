@@ -1,0 +1,77 @@
+C:\Users\matth\Desktop\Sanity Saver\bin\Debug\Sanity Saver.exe.config
+C:\Users\matth\Desktop\Sanity Saver\bin\Debug\Sanity Saver.exe
+C:\Users\matth\Desktop\Sanity Saver\bin\Debug\Sanity Saver.pdb
+C:\Users\matth\Desktop\Sanity Saver\bin\Debug\Sanity Saver.xml
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity Saver.vbprojAssemblyReference.cache
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.mainForm.resources
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.Resources.resources
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity Saver.vbproj.GenerateResource.cache
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity Saver.vbproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity Saver.exe
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity Saver.xml
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Sanity Saver\bin\Debug\Sanity Saver.exe.config
+C:\Users\jaredm\Desktop\Sanity Saver\bin\Debug\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Sanity Saver\bin\Debug\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Sanity Saver\bin\Debug\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity Saver.vbprojAssemblyReference.cache
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.mainForm.resources
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.Resources.resources
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity Saver.vbproj.GenerateResource.cache
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity Saver.vbproj.CoreCompileInputs.cache
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.projectTemplateEditorForm.resources
+C:\Users\jaredm\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.taskGroupTemplateEditorForm.resources
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.projectTemplateEditorForm.resources
+C:\Users\matth\Desktop\Sanity Saver\obj\Debug\Sanity_Saver.taskGroupTemplateEditorForm.resources
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbprojAssemblyReference.cache
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.mainForm.resources
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.Resources.resources
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.projectTemplateEditorForm.resources
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.taskGroupTemplateEditorForm.resources
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbproj.GenerateResource.cache
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.exe
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.xml
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.pdb
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.exe.config
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.exe
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.pdb
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.exe.config
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbprojAssemblyReference.cache
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.mainForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.Resources.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.projectTemplateEditorForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.taskGroupTemplateEditorForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbproj.GenerateResource.cache
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbproj.CoreCompileInputs.cache
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.dailyLogForm.resources
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.dailyLogForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.aboutForm.resources
+C:\Users\matth\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.aboutForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.exe.config
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.exe
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.pdb
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Debug\Sanity Saver.xml
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbprojAssemblyReference.cache
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.aboutForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.backupSettingsForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.dailyLogForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.mainForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.Resources.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.projectTemplateEditorForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity_Saver.taskGroupTemplateEditorForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbproj.GenerateResource.cache
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.vbproj.CoreCompileInputs.cache
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.exe
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.xml
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Debug\Sanity Saver.pdb
