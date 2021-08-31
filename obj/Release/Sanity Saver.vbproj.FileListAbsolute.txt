@@ -1,0 +1,35 @@
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.exe.config
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.vbprojAssemblyReference.cache
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.mainForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.Resources.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.projectTemplateEditorForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.taskGroupTemplateEditorForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.vbproj.GenerateResource.cache
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.vbproj.CoreCompileInputs.cache
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.aboutForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.dailyLogForm.resources
+C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.backupSettingsForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.exe.config
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.exe
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.pdb
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\bin\Release\Sanity Saver.xml
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.aboutForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.backupSettingsForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.dailyLogForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.mainForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.Resources.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.projectTemplateEditorForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.taskGroupTemplateEditorForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.vbproj.GenerateResource.cache
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.vbproj.CoreCompileInputs.cache
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.exe
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.xml
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.pdb
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.statusReportForm.resources
+\\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.vbproj.AssemblyReference.cache
