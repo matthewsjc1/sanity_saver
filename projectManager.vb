@@ -25,8 +25,7 @@
 
     Public Sub Clear()
 
-        projectList = Nothing
-        projectList = New ArrayList()
+        projectList.Clear()
 
     End Sub
 

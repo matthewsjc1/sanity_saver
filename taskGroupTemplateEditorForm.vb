@@ -58,7 +58,7 @@
 
         If doUnsavedChangesExist = True Then
 
-            If MessageBox.Show("The current template has not been saved." + vbNewLine + "Close editor anyway?", "Template Not Saved", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
+            If MessageBox.Show("The current template has not been saved." + vbCrLf + "Close editor anyway?", "Template Not Saved", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
 
                 ActiveForm.Close()
 

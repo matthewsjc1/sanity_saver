@@ -97,7 +97,7 @@ Public Class mainForm
 
                 'get node's id number, then delete the corresponding project:
                 selNodeIdNum = easyToDoTreeView.GetSelectedNodeIdNum()
-                If MessageBox.Show("Remove + cancel '" + easyToDoTreeView.GetSelectedNodeText() + "'?" + vbNewLine + "(WARNING: This action cannot be undone!)", "Remove Project?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
+                If MessageBox.Show("Remove + cancel '" + easyToDoTreeView.GetSelectedNodeText() + "'?" + vbCrLf + "(WARNING: This action cannot be undone!)", "Remove Project?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
 
                     toDoProjMan.RemoveProjectByIdNum(selNodeIdNum)
                     easyToDoTreeView.RemoveSelectedNode()
@@ -108,7 +108,7 @@ Public Class mainForm
 
                 'get node's id number, then delete the corresponding task group:
                 selNodeIdNum = easyToDoTreeView.GetSelectedNodeIdNum()
-                If MessageBox.Show("Remove + cancel '" + easyToDoTreeView.GetSelectedNodeText() + "'?" + vbNewLine + "(WARNING: This action cannot be undone!)", "Remove Task Group?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
+                If MessageBox.Show("Remove + cancel '" + easyToDoTreeView.GetSelectedNodeText() + "'?" + vbCrLf + "(WARNING: This action cannot be undone!)", "Remove Task Group?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
 
                     Dim parentProjIndex As Integer = toDoProjMan.GetIndexOfProjectWithTaskGroupIdNum(selNodeIdNum)
                     toDoProjMan.RemoveTaskGroupFromProjectByIdNum(parentProjIndex, selNodeIdNum)
@@ -120,7 +120,7 @@ Public Class mainForm
 
                 'get node's id number, then delete the corresponding task:
                 selNodeIdNum = easyToDoTreeView.GetSelectedNodeIdNum()
-                If MessageBox.Show("Remove + cancel '" + easyToDoTreeView.GetSelectedNodeText() + "'?" + vbNewLine + "(WARNING: This action cannot be undone!)", "Remove Task?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
+                If MessageBox.Show("Remove + cancel '" + easyToDoTreeView.GetSelectedNodeText() + "'?" + vbCrLf + "(WARNING: This action cannot be undone!)", "Remove Task?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
 
                     Dim parentProjIndex As Integer = toDoProjMan.GetIndexOfProjectWithTaskIdNum(selNodeIdNum)
                     Dim parentGroupIndex As Integer = toDoProjMan.GetIndexOfTaskGroupWithTaskIdNum(selNodeIdNum)
@@ -133,7 +133,7 @@ Public Class mainForm
 
         Else 'if nothing is selected
 
-            MessageBox.Show("Nothing is selected." + vbNewLine + "Please select a project, task group, or task to cancel + remove.", "Cancel + Remove")
+            MessageBox.Show("Nothing is selected." + vbCrLf + "Please select a project, task group, or task to cancel + remove.", "Cancel + Remove")
 
         End If
 
@@ -388,7 +388,7 @@ Public Class mainForm
 
                     If isCurProjDone = True Then
 
-                        If MessageBox.Show("Move '" + curProjName + "' to 'Done'?" + vbNewLine + "(WARNING: This action cannot be undone!)", "Project Done?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
+                        If MessageBox.Show("Move '" + curProjName + "' to 'Done'?" + vbCrLf + "(WARNING: This action cannot be undone!)", "Project Done?", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
 
                             isCurProjDone = True
                             toDoProjMan.SetProjectDoneDate(curProjIndex, toDoProjMan.GetCurrentDateAsFormattedString()) 'finish date

@@ -351,7 +351,9 @@ Public Class toDoFileManager
 
             Dim curProjName As String
             curProjName = statusReportProjectManager.GetProjectName(curProjIndex)
-            statusReportTextBoxName.AppendText(curProjName + vbNewLine)
+            statusReportTextBoxName.AppendText("CURRENT TASKS:")
+            statusReportTextBoxName.AppendText(vbCrLf)
+            statusReportTextBoxName.AppendText(curProjName + vbCrLf)
 
             'cycle through task groups in current project
             For curGroupIndex As Integer = 0 To statusReportProjectManager.GetCurrentNumberOfTaskGroupsInProject(curProjIndex) - 1
@@ -362,11 +364,11 @@ Public Class toDoFileManager
 
                 If isCurGroupDone = True Then
 
-                    'statusReportTextBoxName.AppendText(vbTab + curGroupName + " -   ::: DONE :::" + vbNewLine) *decided to not show finished lines due to messiness
+                    'statusReportTextBoxName.AppendText(vbTab + curGroupName + " -   ::: DONE :::" + vbCrLf) *decided to not show finished lines due to messiness
 
                 ElseIf isCurGroupDone = False Then
 
-                    statusReportTextBoxName.AppendText(vbTab + curGroupName + " - CURRENT TASK:  ")
+                    statusReportTextBoxName.AppendText(vbTab + curGroupName + " :: ")
 
                     Dim wasFirstTaskNotDoneFound As Boolean = False
 
@@ -380,7 +382,7 @@ Public Class toDoFileManager
 
                             If curTaskName.Contains("**") = False Then
 
-                                statusReportTextBoxName.AppendText(curTaskName + vbNewLine)
+                                statusReportTextBoxName.AppendText(curTaskName + vbCrLf)
 
                                 wasFirstTaskNotDoneFound = True
 
@@ -401,7 +403,7 @@ Public Class toDoFileManager
 
             Next
 
-            statusReportTextBoxName.AppendText(vbNewLine + vbNewLine) 'add space between projects
+            statusReportTextBoxName.AppendText(vbCrLf + vbCrLf) 'add space between projects
 
         Next
 
