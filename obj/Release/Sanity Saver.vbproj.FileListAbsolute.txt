@@ -33,3 +33,21 @@ C:\Users\jaredm\Desktop\Dropbox\Sanity Saver Project\Sanity Saver\obj\Release\Sa
 \\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.pdb
 \\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity_Saver.statusReportForm.resources
 \\ARTSERVER\Working_Files\Jared\Programming Projects\Sanity Saver Project\Sanity Saver\obj\Release\Sanity Saver.vbproj.AssemblyReference.cache
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\bin\Release\Sanity Saver.exe.config
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\bin\Release\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\bin\Release\Sanity Saver.pdb
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\bin\Release\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity Saver.vbproj.AssemblyReference.cache
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.aboutForm.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.backupSettingsForm.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.dailyLogForm.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.mainForm.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.Resources.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.projectTemplateEditorForm.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.statusReportForm.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity_Saver.taskGroupTemplateEditorForm.resources
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity Saver.vbproj.GenerateResource.cache
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity Saver.vbproj.CoreCompileInputs.cache
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity Saver.exe
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity Saver.xml
+C:\Users\jaredm\Desktop\Programming Projects\GIT REPOS\Sanity Saver\obj\Release\Sanity Saver.pdb

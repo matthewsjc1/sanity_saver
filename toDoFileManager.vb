@@ -377,9 +377,15 @@ Public Class toDoFileManager
                         If isCurTaskDone = False Then
 
                             Dim curTaskName As String = statusReportProjectManager.GetTaskName(curProjIndex, curGroupIndex, curTaskIndex)
-                            statusReportTextBoxName.AppendText(curTaskName + vbNewLine)
 
-                            wasFirstTaskNotDoneFound = True
+                            If curTaskName.Contains("**") = False Then
+
+                                statusReportTextBoxName.AppendText(curTaskName + vbNewLine)
+
+                                wasFirstTaskNotDoneFound = True
+
+                            End If
+
 
                         End If
 
