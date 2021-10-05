@@ -366,34 +366,36 @@ Public Class toDoFileManager
 
                     'statusReportTextBoxName.AppendText(vbTab + curGroupName + " -   ::: DONE :::" + vbCrLf) *decided to not show finished lines due to messiness
 
-                ElseIf isCurGroupDone = False Then
+                ElseIf isCurGroupDone = False Then 'if current task group is not done
 
-                    statusReportTextBoxName.AppendText(vbTab + curGroupName + " :: ")
-
+                    Dim curTaskName As String = ""
                     Dim wasFirstTaskNotDoneFound As Boolean = False
+                    Dim doesCurTaskBelongToSomeoneElse As Boolean = True
 
                     'cycle through tasks in current task group
                     For curTaskIndex As Integer = 0 To statusReportProjectManager.GetCurrentNumberOfTasksInTaskGroup(curProjIndex, curGroupIndex) - 1
 
+                        curTaskName = statusReportProjectManager.GetTaskName(curProjIndex, curGroupIndex, curTaskIndex)
+                        doesCurTaskBelongToSomeoneElse = curTaskName.Contains("**")
+
                         Dim isCurTaskDone As Boolean = statusReportProjectManager.GetIsTaskDone(curProjIndex, curGroupIndex, curTaskIndex)
-                        If isCurTaskDone = False Then
 
-                            Dim curTaskName As String = statusReportProjectManager.GetTaskName(curProjIndex, curGroupIndex, curTaskIndex)
+                        If isCurTaskDone = True Then 'if current task is done
 
-                            If curTaskName.Contains("**") = False Then
+                        ElseIf isCurTaskDone = False Then 'if current task is not done
 
+                            If doesCurTaskBelongToSomeoneElse = True Then 'if current task is not done and belongs to someone else
+
+                                Exit For
+
+                            ElseIf doesCurTaskBelongToSomeoneElse = False Then 'if current task is not done and belongs to me
+
+                                statusReportTextBoxName.AppendText(vbTab + curGroupName + " :: ")
                                 statusReportTextBoxName.AppendText(curTaskName + vbCrLf)
 
-                                wasFirstTaskNotDoneFound = True
+                                Exit For
 
                             End If
-
-
-                        End If
-
-                        If wasFirstTaskNotDoneFound = True Then
-
-                            Exit For
 
                         End If
 

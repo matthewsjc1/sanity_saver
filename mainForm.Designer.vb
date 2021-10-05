@@ -115,7 +115,7 @@ Partial Class mainForm
         Me.statRepBtn.Name = "statRepBtn"
         Me.statRepBtn.Size = New System.Drawing.Size(118, 42)
         Me.statRepBtn.TabIndex = 7
-        Me.statRepBtn.Text = "Status Report"
+        Me.statRepBtn.Text = "Current To Do List"
         Me.statRepBtn.UseVisualStyleBackColor = False
         '
         'GroupBox5
